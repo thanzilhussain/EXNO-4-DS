@@ -182,4 +182,4 @@ print(f"P-Value: {p}")
 ![image](https://github.com/user-attachments/assets/b5db2b1b-a206-4153-a8b2-8afaedac7d9a)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature selection and Feature scaling has been used on thegiven dataset.
